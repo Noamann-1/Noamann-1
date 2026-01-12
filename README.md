@@ -1,4 +1,5 @@
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=I+am+Noamann)](https://git.io/typing-svg)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-noman-shah-b94221266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khuyhami) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khuyhami@gmail.com) 
 
